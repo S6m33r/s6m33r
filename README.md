@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there 👋 I am Sameer Marandi
 
 <!--
 **S6m33r/s6m33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm a software developer with a passion for open-source projects and learning new technologies.
 
 Here are some ideas to get you started:
 
