@@ -1,18 +1,21 @@
 ## Hi there 👋 I am Sameer Marandi
 
-<!--
-**S6m33r/s6m33r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Data Analyst** passionate about transforming raw data into actionable business insights. My work focuses on identifying trends through Exploratory Data Analysis (EDA) and optimizing outcomes using Machine Learning.
 
-I'm a software developer with a passion for open-source projects and learning new technologies.
+### 🛠 Tech Stack
+- **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL
+- **Visualization:** Matplotlib, Seaborn, Tableau/PowerBI
+- **Tools:** Jupyter Notebooks, Git/GitHub, Excel
 
-Here are some ideas to get you started:
+### 📊 Featured Projects
+- **[Dynamic Price Optimization](https://github.com/S6m33r/Dynamic-Price-Optimization-in-E-Commerce-Using-Machine-Learning):** Using Machine Learning to predict and set optimal pricing strategies in E-commerce.
+- **[Netflix Data Analysis](https://github.com/S6m33r/Netflix-Data-Analysis):** An in-depth EDA of streaming trends, genre popularity, and content growth over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=S6m33r&show_icons=true&theme=radical)
+
+---
+
+- 🔭 I’m currently working on advanced predictive modeling for consumer behavior.
+- 🌱 I’m currently learning SQL optimization and Deep Learning.
+- 📫 How to reach me: [Link your LinkedIn here]
