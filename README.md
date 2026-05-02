@@ -18,4 +18,4 @@ I am a **Data Analyst** passionate about transforming raw data into actionable b
 
 - 🔭 I’m currently working on advanced predictive modeling for consumer behavior.
 - 🌱 I’m currently learning SQL optimization and Deep Learning.
-- 📫 How to reach me: [Link your LinkedIn here]
+- 📫 How to reach me: [https://www.linkedin.com/in/sameer-marandi-232249225/]
